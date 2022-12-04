@@ -4,6 +4,12 @@
 > 
 > This one is mine.
 
+## Dependencies
+
+- python
+- pyenv
+- poetry
+
 ## License
 
 The MIT License (MIT)
