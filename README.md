@@ -10,6 +10,16 @@
 - pyenv
 - poetry
 
+## Usage
+
+```shell
+## Run main script
+poetry run ./src/main.py
+
+## Lint with black
+poetry run black .
+```
+
 ## License
 
 The MIT License (MIT)
