@@ -18,6 +18,8 @@ poetry run ./src/main.py
 
 ## Lint with black
 poetry run black .
+
+## TODO: test with pytest
 ```
 
 ## License
