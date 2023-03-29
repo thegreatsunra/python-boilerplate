@@ -1,5 +1,5 @@
 ## Start of https://github.com/github/gitignore/blob/main/Python.gitignore
-## Retrieved December 4, 2022
+## Retrieved March 29, 2023
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -163,4 +163,3 @@ cython_debug/
 #.idea/
 
 ## End of https://github.com/github/gitignore/blob/main/Python.gitignore
-
