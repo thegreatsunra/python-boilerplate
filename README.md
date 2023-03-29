@@ -20,6 +20,9 @@ poetry run ./src/main.py
 poetry run black .
 
 ## TODO: test with pytest
+
+## Update poetry dependencies
+poetry update
 ```
 
 ## License
