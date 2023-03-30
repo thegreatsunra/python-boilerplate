@@ -5,7 +5,6 @@ description = ""
 authors = ["Dane Petersen <thegreatsunra@gmail.com>"]
 license = "MIT"
 readme = "README.md"
-packages = [{include = "python_boilerplate"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
