@@ -13,15 +13,19 @@
 ## Usage
 
 ```shell
+## Install dependencies
+poetry install
+
 ## Run main script
 poetry run ./src/main.py
 
 ## Lint with black
 poetry run black .
 
-## TODO: test with pytest
+## Test with pytest
+poetry run pytest
 
-## Update poetry dependencies
+## Update dependencies
 poetry update
 ```
 
