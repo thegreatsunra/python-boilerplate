@@ -5,10 +5,10 @@ description = ""
 authors = ["Dane Petersen <thegreatsunra@gmail.com>"]
 license = "MIT"
 readme = "README.md"
+packages = [{include = "main"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
-
 
 [tool.poetry.group.dev.dependencies]
 black = "^22.10.0"
