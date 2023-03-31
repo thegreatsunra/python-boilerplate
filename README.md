@@ -22,6 +22,9 @@ poetry run ./src/main.py
 ## Lint with black
 poetry run black .
 
+## Lint with flake8
+poetry run flake8 .
+
 ## Test with pytest
 poetry run pytest
 
