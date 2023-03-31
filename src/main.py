@@ -5,12 +5,16 @@ Main module docstring
 
 
 def hello_world():
-    """Returns 'Hello World'"""
+    """
+    Returns 'Hello World'
+    """
     return "Hello World"
 
 
 def main():
-    """Main entry point of the app"""
+    """
+    Main entry point of the app
+    """
     print(hello_world())
 
 
