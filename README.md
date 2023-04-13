@@ -4,11 +4,17 @@
 > 
 > This one is mine.
 
+## Prerequisites
+
+- [Python](https://www.python.org)
+- [pyenv](https://github.com/pyenv/pyenv)
+- [Poetry](https://python-poetry.org)
+
 ## Dependencies
 
-- python
-- pyenv
-- poetry
+- [Black](https://pypi.org/project/black/)
+- [Flake8](https://flake8.pycqa.org/en/latest/)
+- [pytest](https://pytest.org/)
 
 ## Usage
 
