@@ -12,13 +12,23 @@
 
 ## Usage
 
+### Run the script
+
+1. Open a terminal window at the root of this project
+
+2. Run the following commands:
+
 ```shell
 ## Install dependencies
 poetry install
 
 ## Run main script
 poetry run ./src/main.py
+```
 
+### Additional commands
+
+```
 ## Lint with flake8
 poetry run flake8 .
 
