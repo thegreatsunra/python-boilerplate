@@ -14,6 +14,7 @@
 
 - [Black](https://pypi.org/project/black/)
 - [Flake8](https://flake8.pycqa.org/en/latest/)
+- [mypy](https://www.mypy-lang.org)
 - [pytest](https://pytest.org/)
 
 ## Usage
@@ -40,6 +41,9 @@ poetry run flake8 .
 
 ## Lint with black
 poetry run black .
+
+## Check static typing with mypy
+poetry run mypy .
 
 ## Test with pytest
 poetry run pytest
