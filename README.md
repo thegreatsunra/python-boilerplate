@@ -43,7 +43,7 @@ poetry run flake8 .
 poetry run black .
 
 ## Check static typing with mypy
-poetry run mypy ./src
+poetry run mypy .
 
 ## Test with pytest
 poetry run pytest
