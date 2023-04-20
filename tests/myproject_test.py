@@ -3,7 +3,7 @@
 Tests
 """
 
-from main import hello_world
+from myproject.main import hello_world
 
 
 def test_main():
