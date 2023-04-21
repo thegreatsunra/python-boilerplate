@@ -30,7 +30,7 @@
 poetry install
 
 ## Run main script
-poetry run ./src/main.py
+poetry run ./src/myproject/main.py
 ```
 
 ### Additional commands
