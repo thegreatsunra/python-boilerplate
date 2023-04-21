@@ -1,10 +1,11 @@
 [tool.poetry]
-name = "python-boilerplate"
-version = "1.3.0"
-description = ""
 authors = ["Dane Petersen <thegreatsunra@gmail.com>"]
+description = ""
 license = "MIT"
+name = "python-boilerplate"
 readme = "README.md"
+repository = "https://github.com/thegreatsunra/python-boilerplate"
+version = "1.4.0"
 
 [tool.poetry.dependencies]
 python = "^3.11"
