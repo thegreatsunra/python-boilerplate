@@ -5,7 +5,7 @@ license = "MIT"
 name = "python-boilerplate"
 readme = "README.md"
 repository = "https://github.com/thegreatsunra/python-boilerplate"
-version = "1.5.0"
+version = "2.0.0"
 
 [tool.poetry.dependencies]
 python = "^3.11"
