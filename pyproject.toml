@@ -6,6 +6,7 @@ name = "python-boilerplate"
 readme = "README.md"
 repository = "https://github.com/thegreatsunra/python-boilerplate"
 version = "2.0.0"
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.11"
